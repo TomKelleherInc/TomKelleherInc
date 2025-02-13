@@ -1,10 +1,14 @@
-Hi 👋 My name is Tom Kelleher
+I am Tom Kelleher
 =============================
 
 Developer, System Architect, Product Manager, VP of Tech, Consultant
 --------------------------------------------------------------------
 
-Started as a simple English Major, then drawn by otherworldly forces towards tech. Now a technologist with decades experience designing and building systems for enterprise firms and startups, domestic and international, in healthcare and well-being industries, law-enforcement, supply-chain, and more. Strategic thinker behind multiple "0-to-1" web/mobile products, including tobacco cessation app for French govt. (deployed 2016; 1.2M users by Aug 2017). Co-authored WEF white paper on driving behavior change in healthcare. Consultative, collaborative; excellent writer, presenter, listener, and team player.
+Started as a simple English Major, then drawn by otherworldly forces towards tech. Now a technologist with decades experience designing and building systems for enterprise firms and startups, domestic and international, in healthcare and well-being industries, law-enforcement, supply-chain, and more. 
+
+Strategic thinker behind multiple "0-to-1" web/mobile products, including tobacco cessation app for the French government (deployed 2016; 1.2M users by Aug 2017) -- and ArenaCX's [RFPerfect tool](https://platform.arenacx.com), for creating, publishing, comparing and awarding RFPs in record time.
+
+Co-authored WEF white paper on driving behavior change in healthcare. Consultative, collaborative; excellent writer, presenter, listener, and team player.
 
 * 🌍  I'm based in New Jersey, USA
 * ✉️  You can contact me at [tom@tkelleher.com](mailto:tom@tkelleher.com)
@@ -26,6 +30,7 @@ src="https://img.shields.io/twitter/follow/TomKelleherInc?logo=twitter&style=for
 
 <p align="left"> <a href="https://www.github.com/TomKelleherInc" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/tomkelleher/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/TomKelleherInc" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+### Badges 
+(as per my work here -- in real life, a TON more JavaScript/node.js)
 
 <a href="https://github.com/TomKelleherInc" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomKelleherInc&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
