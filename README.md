@@ -6,7 +6,7 @@ Developer, System Architect, Product Manager, VP of Tech, Consultant
 
 Started as a simple English Major, then drawn by otherworldly forces towards tech. Now a technologist with decades experience designing and building systems for enterprise firms and startups, domestic and international, in healthcare and well-being industries, law-enforcement, supply-chain, and more. 
 
-Strategic thinker behind multiple "0-to-1" web/mobile products, including tobacco cessation app for the French government (deployed 2016; 1.2M users by Aug 2017) -- and ArenaCX's [RFPerfect tool](https://platform.arenacx.com), for creating, publishing, comparing and awarding RFPs in record time.
+Strategic thinker behind multiple "0-to-1" web/mobile products, including the [tobacco cessation app](https://play.google.com/store/apps/details?id=fr.cnamts.tis&hl=en_US) for the French government (deployed 2016; 1.2M users by Aug 2017) -- and ArenaCX's [RFPerfect tool](https://platform.arenacx.com), for creating, publishing, comparing and awarding RFPs in record time.
 
 Co-authored WEF white paper on driving behavior change in healthcare. Consultative, collaborative; excellent writer, presenter, listener, and team player.
 
