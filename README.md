@@ -8,11 +8,13 @@ Started as a simple English Major, then drawn by otherworldly forces towards tec
 
 Strategic thinker behind multiple "0-to-1" web/mobile products, including the [tobacco cessation app](https://play.google.com/store/apps/details?id=fr.cnamts.tis&hl=en_US) for the French government (deployed 2016; 1.2M users by Aug 2017) -- and ArenaCX's [RFPerfect tool](https://platform.arenacx.com), for creating, publishing, comparing and awarding RFPs in record time.
 
-Co-authored WEF white paper on driving behavior change in healthcare. Consultative, collaborative; excellent writer, presenter, listener, and team player.
+Lead author of a [World Economic Forum white paper](https://www.weforum.org/publications/behavioural-strategies-to-strengthen-health-programmes-and-policies-six-behavioural-insights-to-increase-impact-and-efficiency/) on driving behavior change in healthcare. 
+
+Consultative, collaborative; excellent writer, presenter, listener, and team player.
 
 * 🌍  I'm based in New Jersey, USA
-* ✉️  You can contact me at [tom@tkelleher.com](mailto:tom@tkelleher.com)
-* 🚀  I'm currently working on [a new order fulfillment system/process for my company](http://www.justrightreader.com)
+* ✉️  You can contact me at [kelleher@tkelleher.com](mailto:kelleher@tkelleher.com)
+* 🚀  I'm currently working on a web collection of my [attempts at tormenting online scammers](https://tkelleher.com/scambattle)
 
 <a href="https://www.x.com/TomKelleherInc" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/TomKelleherInc?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
